@@ -12,4 +12,4 @@ const ReactDOM = require("react-dom") // to get react dom
 
 // JSX code
 
-ReactDOM.render(<h1>Welcome to my webpage</h1>, document.getElementById("d1"))
+ReactDOM.render(<h1>Welcome to my webpage</h1>, document.getElementById("root"))
